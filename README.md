@@ -28,7 +28,7 @@ compiled QBASIC on a 8086 IBM PC,
 the maximun number of antenna wire segments
 has been increased from 50 to 250.
 This still allows the method-of-moments linear equation solver
-to run in reasonable time, even in a purely interpreded Basic.
+to run in reasonable time, even in a purely interpreted Basic.
 
 Information on the original MININEC3 program can be found at these web sites:
 
