@@ -48,7 +48,7 @@ MININEC3.BAS is U.S. Fedrally funded code reportedly now in the Public Domain.
 
 Also included is a 3-line text file "mininec.inp",
 modified from fixed column position numeric fields to CSV format.
-If the mininec2 program finds a file with this name,
+If the mininec3 program finds a file with this name,
 it uses the data in this file
 for wire segment input, instead of inputting from the console.
 Try this file with:
