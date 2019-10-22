@@ -6,11 +6,11 @@ of the MININEC3.BAS program.
 The MININEC3.BAS BASIC program was
 originally developed by J.C.Logan and J.W.Rockway 
 at Navel Ocean Systems Center in San Diego, CA.
-MININEC3, is a method-of-moments computer program
+MININEC3 is a method-of-moments computer program
 for the analysis of thin-wire antennas.
 
-The version of mininec3.bas has been minimally modified,
-enough to be compatible with Chipmunk Basic,
+This version of mininec3.bas has been minimally modified,
+just enough to be compatible with Chipmunk Basic,
 command-line version 3.6.8 (1.368.x) or later.
 Chipmunk Basic is a Basic interpreter
 for macOS and Linux (Raspberry Pi, et.al.).  
@@ -18,7 +18,8 @@ for macOS and Linux (Raspberry Pi, et.al.).
 but extensive text console input and file management
 on the iPad is a bit problematic.)
 A few variable names, keywords, operators,
-and file I/O statements had to be modified.
+and file I/O statements had to be modified, due to minor
+differences between QBASIC and Chipmunk Basic.
 No GUI or graphics have been added with this modification.
 The mininec3 application is still strictly command-line driven.
 But since Chipmunk Basic on recent MacBooks
